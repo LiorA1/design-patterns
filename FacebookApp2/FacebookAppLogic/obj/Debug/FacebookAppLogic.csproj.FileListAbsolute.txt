@@ -1,0 +1,11 @@
+C:\Users\LiorAsis\Desktop\A19 Ex02 LiorAsis 026503151 YairZvuloon 208763375\FacebookAppLogic\bin\Debug\FacebookAppLogic.dll
+C:\Users\LiorAsis\Desktop\A19 Ex02 LiorAsis 026503151 YairZvuloon 208763375\FacebookAppLogic\bin\Debug\FacebookAppLogic.pdb
+C:\Users\LiorAsis\Desktop\A19 Ex02 LiorAsis 026503151 YairZvuloon 208763375\FacebookAppLogic\bin\Debug\Facebook.dll
+C:\Users\LiorAsis\Desktop\A19 Ex02 LiorAsis 026503151 YairZvuloon 208763375\FacebookAppLogic\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\LiorAsis\Desktop\A19 Ex02 LiorAsis 026503151 YairZvuloon 208763375\FacebookAppLogic\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\LiorAsis\Desktop\A19 Ex02 LiorAsis 026503151 YairZvuloon 208763375\FacebookAppLogic\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\LiorAsis\Desktop\A19 Ex02 LiorAsis 026503151 YairZvuloon 208763375\FacebookAppLogic\bin\Debug\PdfSharp.dll
+C:\Users\LiorAsis\Desktop\A19 Ex02 LiorAsis 026503151 YairZvuloon 208763375\FacebookAppLogic\obj\Debug\FacebookAppLogic.csproj.CoreCompileInputs.cache
+C:\Users\LiorAsis\Desktop\A19 Ex02 LiorAsis 026503151 YairZvuloon 208763375\FacebookAppLogic\obj\Debug\FacebookAppLogic.csproj.CopyComplete
+C:\Users\LiorAsis\Desktop\A19 Ex02 LiorAsis 026503151 YairZvuloon 208763375\FacebookAppLogic\obj\Debug\FacebookAppLogic.dll
+C:\Users\LiorAsis\Desktop\A19 Ex02 LiorAsis 026503151 YairZvuloon 208763375\FacebookAppLogic\obj\Debug\FacebookAppLogic.pdb

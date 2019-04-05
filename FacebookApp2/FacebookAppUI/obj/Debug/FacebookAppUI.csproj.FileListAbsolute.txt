@@ -1,0 +1,5 @@
+C:\Users\LiorAsis\Desktop\A19 Ex02 LiorAsis 026503151 YairZvuloon 208763375\FacebookAppUI\obj\Debug\FacebookAppUI.csprojAssemblyReference.cache
+C:\Users\LiorAsis\Desktop\A19 Ex02 LiorAsis 026503151 YairZvuloon 208763375\FacebookAppUI\obj\Debug\FacebookAppUI.FormFacebookApp.resources
+C:\Users\LiorAsis\Desktop\A19 Ex02 LiorAsis 026503151 YairZvuloon 208763375\FacebookAppUI\obj\Debug\A19_Ex01_Lior_026503151_Yair.Properties.Resources.resources
+C:\Users\LiorAsis\Desktop\A19 Ex02 LiorAsis 026503151 YairZvuloon 208763375\FacebookAppUI\obj\Debug\FacebookAppUI.csproj.GenerateResource.cache
+C:\Users\LiorAsis\Desktop\A19 Ex02 LiorAsis 026503151 YairZvuloon 208763375\FacebookAppUI\obj\Debug\FacebookAppUI.csproj.CoreCompileInputs.cache
