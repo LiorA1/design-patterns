@@ -1,0 +1,10 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 3
+First Student Details.:  Lior Asis
+Second Student Details:  Yair zvuloon
+Delivery Date.........: 30/01/2019
+Delivered In Delay....: No
+Delay Reason..........: N/A
+Visual Studio Version.: 2017
+Comments..............: the DLLS of this Project: https://drive.google.com/open?id=1NMhPlHBqh6FG10IJ0xluNgNUqwVbylf5
+=======================End Exercise Checking Report=========================
