@@ -1,14 +1,14 @@
-## Design Patterns in c#
+# Design Patterns in c#
 ========================
 
-# FacebookApp1 -
+## FacebookApp1 -
 Is just an Winforms App, which connect to facebook API, with two additional features.
 
 Additional topics covered:  
 Working with API's.
 Threads (Timers).
 
-# FacebookApp2 -
+## FacebookApp2 -
 Implemented design patterns:
 1) Facade
 2) Adapter
@@ -20,7 +20,7 @@ A-Synchronic programming :  load the remote data in a separate Thread, and Updat
 Data Binding.
 
 
-# FacebookApp3 -
+## FacebookApp3 -
 Implemented design patterns:
 1) Observer
 2) Decorator
